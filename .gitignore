@@ -1,9 +1,8 @@
-  1 .DS_Store
-  2 .ipynb_checkpoints
-  3 __pycache__
-  4 .gitignore
-  5 .coverage
-  6 .cache
-  7 .env
-  8 .swp
-~                      
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+.gitignore
+.coverage
+.cache
+.env
+*.swp                     
